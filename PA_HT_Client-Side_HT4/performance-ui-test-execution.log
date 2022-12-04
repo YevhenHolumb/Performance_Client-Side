@@ -1,0 +1,41 @@
+19:19:42.297 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+19:19:42.508 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"MainPage":[{"latency":1130,"tti":648,"total_time":1808,"ttl":4,"onload":17}]}
+19:19:42.508 [main] INFO  pages.MainPage - Main page is loaded
+20:07:50.167 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+20:07:50.381 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"MainPage":[{"latency":1087,"tti":650,"total_time":1756,"ttl":2,"onload":12}]}
+20:07:50.381 [main] INFO  pages.MainPage - Main page is loaded
+20:07:52.067 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+20:07:52.124 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ComputersPage":[{"latency":811,"tti":226,"total_time":1519,"ttl":475,"onload":0}],"MainPage":[{"latency":1087,"tti":650,"total_time":1756,"ttl":2,"onload":12}]}
+20:07:52.124 [main] INFO  pages.ComputersPage - Computers page is loaded
+20:07:53.400 [main] INFO  pages.DesktopsPage - Clicked on 'firstDesktopItemButton'
+20:07:53.425 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+20:07:53.427 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"DesktopPage":[{"latency":316,"tti":43,"total_time":1167,"ttl":803,"onload":0}],"ComputersPage":[{"latency":811,"tti":226,"total_time":1519,"ttl":475,"onload":0}],"MainPage":[{"latency":1087,"tti":650,"total_time":1756,"ttl":2,"onload":12}]}
+20:07:53.428 [main] INFO  pages.DesktopsPage - Laptops list is appeared
+22:08:47.223 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:08:47.452 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"MainPage":[{"latency":1144,"tti":621,"total_time":1784,"ttl":2,"onload":12}]}
+22:08:47.453 [main] INFO  pages.MainPage - Main page is loaded
+22:08:48.226 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:08:48.277 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ComputersPage":[{"latency":373,"tti":254,"total_time":631,"ttl":0,"onload":0}],"MainPage":[{"latency":1144,"tti":621,"total_time":1784,"ttl":2,"onload":12}]}
+22:08:48.278 [main] INFO  pages.ComputersPage - Computers page is loaded
+22:08:48.902 [main] INFO  pages.DesktopsPage - Clicked on 'DesktopPageButton'
+22:08:48.917 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:08:48.919 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"DesktopPage":[{"latency":348,"tti":56,"total_time":517,"ttl":106,"onload":0}],"ComputersPage":[{"latency":373,"tti":254,"total_time":631,"ttl":0,"onload":0}],"MainPage":[{"latency":1144,"tti":621,"total_time":1784,"ttl":2,"onload":12}]}
+22:08:48.919 [main] INFO  pages.DesktopsPage - Desktops list is appeared
+22:08:48.977 [main] INFO  pages.DesktopsPage - Let's grab first laptop: Build your own computer
+22:08:50.994 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:08:50.995 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ProductPage":[{"latency":333,"tti":892,"total_time":1870,"ttl":639,"onload":0}],"DesktopPage":[{"latency":348,"tti":56,"total_time":517,"ttl":106,"onload":0}],"ComputersPage":[{"latency":373,"tti":254,"total_time":631,"ttl":0,"onload":0}],"MainPage":[{"latency":1144,"tti":621,"total_time":1784,"ttl":2,"onload":12}]}
+22:08:50.996 [main] INFO  pages.DesktopsPage - Asserted that the laptop we wanted to open and actually opened laptop are the same product
+22:10:05.582 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:10:05.737 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"MainPage":[{"latency":709,"tti":611,"total_time":1337,"ttl":1,"onload":12}]}
+22:10:05.738 [main] INFO  pages.MainPage - Main page is loaded
+22:10:07.101 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:10:07.149 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ComputersPage":[{"latency":768,"tti":450,"total_time":1222,"ttl":0,"onload":0}],"MainPage":[{"latency":709,"tti":611,"total_time":1337,"ttl":1,"onload":12}]}
+22:10:07.149 [main] INFO  pages.ComputersPage - Computers page is loaded
+22:10:07.764 [main] INFO  pages.DesktopsPage - Clicked on 'DesktopPageButton'
+22:10:07.778 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:10:07.779 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"DesktopPage":[{"latency":348,"tti":37,"total_time":511,"ttl":121,"onload":0}],"ComputersPage":[{"latency":768,"tti":450,"total_time":1222,"ttl":0,"onload":0}],"MainPage":[{"latency":709,"tti":611,"total_time":1337,"ttl":1,"onload":12}]}
+22:10:07.780 [main] INFO  pages.DesktopsPage - Desktops list is appeared
+22:10:07.831 [main] INFO  pages.DesktopsPage - Let's grab any desktop: Lenovo IdeaCentre 600 All-in-One PC
+22:10:10.058 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:10:10.060 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ProductPage":[{"latency":427,"tti":967,"total_time":2085,"ttl":679,"onload":0}],"DesktopPage":[{"latency":348,"tti":37,"total_time":511,"ttl":121,"onload":0}],"ComputersPage":[{"latency":768,"tti":450,"total_time":1222,"ttl":0,"onload":0}],"MainPage":[{"latency":709,"tti":611,"total_time":1337,"ttl":1,"onload":12}]}
+22:10:10.060 [main] INFO  pages.DesktopsPage - Asserted that the desktop we wanted to open and actually opened desktop are the same product

@@ -1,0 +1,15 @@
+
+G
+java:S5411:"*Use the primitive boolean expression here.(ÊØË‹8’ÑìğÍ0
+C
+java:S1170 "!Make this final field static too.(‹ùÃ‡şÿÿÿÿ8öÑìğÍ0
+>
+java:S1170""!Make this final field static too.(’¿ª…8÷ÑìğÍ0
+Y
+java:S2696‚"6Make the enclosing method "static" or remove this set.(–Ù½şÿÿÿÿ8ôÒìğÍ0
+M
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8üÒìğÍ0
+G
+java:S1905’")Remove this unnecessary cast to "Object".(¢Ã•‚8ÿÒìğÍ0
+p	java:S100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëàˆ±ùÿÿÿÿ8ÓìğÍ0
+p	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö»Ò÷ùÿÿÿÿ8‘ÓìğÍ0
